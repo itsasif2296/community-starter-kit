@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona helps contributors i.e us the users to get through the imptortant aspects of processing and planning in order to develop the bot as well as the users.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Guidance in planning and processing
+Development in users
 
 ## Getting started
 
